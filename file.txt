@@ -1,2 +1,5 @@
 First line in test project
 Skills: Linux (Redhat, Ubuntu), Asterisk
+
+Email: raian13@gmail.com
+Phone: +7-910-111-22-33
