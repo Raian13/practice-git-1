@@ -1,3 +1,2 @@
 First line in test project
-Languages: Russian, English, German, Chinese
 Skills: Linux (Redhat, Ubuntu), Asterisk
